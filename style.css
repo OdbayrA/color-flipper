@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.nav-center {
+  display: flex;
+  justify-content: space-evenly;
+  color: blue;
+}
+
+/* .color {
+  width: 990px;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+} */
+
+.text {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+
+.flipper {
+  color: white;
+}
+
+.clicks {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.but {
+  background-color: red;
+}
